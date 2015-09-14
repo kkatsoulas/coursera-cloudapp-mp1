@@ -114,8 +114,7 @@ public class CopyOfMP1 {
         		}
     		}
         }
-        */
-		 
+        **/		 
 		Map<String, Integer> sortedMap2 = myHashMap.sortByValue(c);
 
         //System.out.println("Number of distinct objects: " + c.size());
