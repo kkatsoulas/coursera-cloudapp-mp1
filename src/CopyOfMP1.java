@@ -139,8 +139,6 @@ public class CopyOfMP1 {
         	
         	Processing_Words.add(entry.getKey() + "_" + entry.getValue());
         }
-        
-        
 
 
         return ret;
